@@ -5,7 +5,7 @@ All walkthroughs are in encrypted PDFs.  The password is the flag to that partic
 
 ## Challenges
 - [Lernaean](Lernaean.pdf) - Your target is not very good with computers. Try and guess their password to see if they may be hiding anything!
-- Cartographer - Some underground hackers are developing a new command and control server. Can you break in and see what they are up to?
+- [Cartographer](Cartographer.pdf) - Some underground hackers are developing a new command and control server. Can you break in and see what they are up to?
 - HDC - We believe a certain individual uses this website for shady business. Can you find out who that is and send him an email to check, using the web site's functionality?
 - I know Mag1k - Can you get to the profile page of the admin?
 - Grammar - When we access this page we get a Forbidden error. However we believe that something strange lies behind... Can you find a way in and retrieve the flag?
