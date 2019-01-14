@@ -1,7 +1,7 @@
 # OverTheWire - Bandit
 [OverTheWire - Bandit](http://overthewire.org/wargames/bandit/)
 
-All walkthroughs are in encrypted PDFs.  The password is the flag to that particular challenge.
+All writeups are in encrypted PDFs.  The password is the flag to that particular challenge.
 
 ## Challenges
 - [Bandit Level 0](bandit_lvl0.pdf)
