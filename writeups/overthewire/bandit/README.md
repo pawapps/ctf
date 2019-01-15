@@ -3,6 +3,8 @@
 
 All writeups are in encrypted PDFs.  The password is the flag to that particular challenge.
 
+Bandit challenges are basic introductory to Linux/Unix command line interface (CLI).  These challenges make the perfect entry level CTF to someone just getting started in the game or just getting started with Linux/Unix.
+
 ## Challenges
 - [Bandit Level 0](bandit_lvl0.pdf)
 - [Bandit Level 1](bandit_lvl1.pdf)
