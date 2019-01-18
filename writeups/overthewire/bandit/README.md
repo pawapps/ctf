@@ -22,7 +22,7 @@ Bandit challenges are basic introductory to Linux/Unix command line interface (C
 - [Bandit Level 13](bandit_lvl13.pdf)
 - [Bandit Level 14](bandit_lvl14.pdf)
 - [Bandit Level 15](bandit_lvl15.pdf)
-- [Bandit Level 16](bandit_lvl16.pdf)
+- [Bandit Level 16](bandit_lvl16.pdf) - password is first 10 digits of the private key
 - [Bandit Level 17](bandit_lvl17.pdf)
 - [Bandit Level 18](bandit_lvl18.pdf)
 - [Bandit Level 19](bandit_lvl19.pdf)
